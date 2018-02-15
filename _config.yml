@@ -1,2 +1,6 @@
 theme: jekyll-theme-architect
 title: Public Samples
+
+webrick:
+  headers:
+    main-header: Heyy
